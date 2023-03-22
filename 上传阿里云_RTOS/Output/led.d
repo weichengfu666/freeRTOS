@@ -1,0 +1,14 @@
+..\..\output\led.o: ..\..\Drivers\BSP\LED\src\led.c
+..\..\output\led.o: ..\..\Drivers\BSP/LED/inc/led.h
+..\..\output\led.o: ..\..\Drivers\CMSIS\stm32f10x.h
+..\..\output\led.o: ..\..\Drivers\CMSIS\core_cm3.h
+..\..\output\led.o: D:\sofeware\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\led.o: ..\..\Drivers\CMSIS\system_stm32f10x.h
+..\..\output\led.o: ..\..\User\stm32f10x_conf.h
+..\..\output\led.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_exti.h
+..\..\output\led.o: ..\..\Drivers\CMSIS\stm32f10x.h
+..\..\output\led.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_gpio.h
+..\..\output\led.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_rcc.h
+..\..\output\led.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_tim.h
+..\..\output\led.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_usart.h
+..\..\output\led.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\misc.h

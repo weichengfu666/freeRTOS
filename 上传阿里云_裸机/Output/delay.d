@@ -1,0 +1,14 @@
+..\..\output\delay.o: ..\..\Drivers\SYSTEM\DELAY\src\delay.c
+..\..\output\delay.o: ..\..\Drivers\SYSTEM/DELAY/inc/delay.h
+..\..\output\delay.o: ..\..\Drivers\CMSIS\stm32f10x.h
+..\..\output\delay.o: ..\..\Drivers\CMSIS\core_cm3.h
+..\..\output\delay.o: D:\sofeware\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\delay.o: ..\..\Drivers\CMSIS\system_stm32f10x.h
+..\..\output\delay.o: ..\..\User\stm32f10x_conf.h
+..\..\output\delay.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_exti.h
+..\..\output\delay.o: ..\..\Drivers\CMSIS\stm32f10x.h
+..\..\output\delay.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_gpio.h
+..\..\output\delay.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_rcc.h
+..\..\output\delay.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_tim.h
+..\..\output\delay.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_usart.h
+..\..\output\delay.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\misc.h

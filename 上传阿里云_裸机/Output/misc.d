@@ -1,0 +1,14 @@
+..\..\output\misc.o: ..\..\Drivers\STM32F1xx_HAL_Driver\src\misc.c
+..\..\output\misc.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\misc.h
+..\..\output\misc.o: ..\..\Drivers\CMSIS\stm32f10x.h
+..\..\output\misc.o: ..\..\Drivers\CMSIS\core_cm3.h
+..\..\output\misc.o: D:\sofeware\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\misc.o: ..\..\Drivers\CMSIS\system_stm32f10x.h
+..\..\output\misc.o: ..\..\User\stm32f10x_conf.h
+..\..\output\misc.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_exti.h
+..\..\output\misc.o: ..\..\Drivers\CMSIS\stm32f10x.h
+..\..\output\misc.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_gpio.h
+..\..\output\misc.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_rcc.h
+..\..\output\misc.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_tim.h
+..\..\output\misc.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_usart.h
+..\..\output\misc.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\misc.h

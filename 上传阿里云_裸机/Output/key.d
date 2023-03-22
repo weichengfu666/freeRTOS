@@ -1,0 +1,15 @@
+..\..\output\key.o: ..\..\Drivers\BSP\KEY\src\key.c
+..\..\output\key.o: ..\..\Drivers\BSP/KEY/inc/key.h
+..\..\output\key.o: ..\..\Drivers\CMSIS\stm32f10x.h
+..\..\output\key.o: ..\..\Drivers\CMSIS\core_cm3.h
+..\..\output\key.o: D:\sofeware\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\key.o: ..\..\Drivers\CMSIS\system_stm32f10x.h
+..\..\output\key.o: ..\..\User\stm32f10x_conf.h
+..\..\output\key.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_exti.h
+..\..\output\key.o: ..\..\Drivers\CMSIS\stm32f10x.h
+..\..\output\key.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_gpio.h
+..\..\output\key.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_rcc.h
+..\..\output\key.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_tim.h
+..\..\output\key.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_usart.h
+..\..\output\key.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\misc.h
+..\..\output\key.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\../../SYSTEM/DELAY/inc/delay.h

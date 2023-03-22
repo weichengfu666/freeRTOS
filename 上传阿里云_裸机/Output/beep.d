@@ -1,0 +1,14 @@
+..\..\output\beep.o: ..\..\Drivers\BSP\BEEP\src\beep.c
+..\..\output\beep.o: ..\..\Drivers\BSP/BEEP/inc/beep.h
+..\..\output\beep.o: ..\..\Drivers\CMSIS\stm32f10x.h
+..\..\output\beep.o: ..\..\Drivers\CMSIS\core_cm3.h
+..\..\output\beep.o: D:\sofeware\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\beep.o: ..\..\Drivers\CMSIS\system_stm32f10x.h
+..\..\output\beep.o: ..\..\User\stm32f10x_conf.h
+..\..\output\beep.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_exti.h
+..\..\output\beep.o: ..\..\Drivers\CMSIS\stm32f10x.h
+..\..\output\beep.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_gpio.h
+..\..\output\beep.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_rcc.h
+..\..\output\beep.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_tim.h
+..\..\output\beep.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\stm32f10x_usart.h
+..\..\output\beep.o: ..\..\Drivers\STM32F1xx_HAL_Driver\inc\misc.h
